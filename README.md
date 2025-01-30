@@ -116,6 +116,3 @@ This repository showcases a series of game development projects implemented in *
   - AI behaviors including state machines and pathfinding algorithms.
   - Audio integration for sound effects and music.
   - 3D environment setup and rendering techniques.
-
-*Note*: Ensure that all necessary dependencies (e.g., SDL2, OpenGL) are installed on your system.
-
